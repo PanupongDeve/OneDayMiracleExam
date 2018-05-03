@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">View</string>
+    <string name="meat">meat</string>
+    <string name="cheese">cheese</string>
+    <string name="pirates">pirates</string>
+    <string name="ninjas">ninjas</string>
+</resources>
